@@ -398,7 +398,7 @@ GameObject:
   - component: {fileID: 1156238162}
   - component: {fileID: 1156238161}
   m_Layer: 0
-  m_Name: Common Settings
+  m_Name: Common Setting
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
