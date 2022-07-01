@@ -8,7 +8,7 @@
 
 ## 演示简介
 
-本分支修改内容可在Assets/MySample中找到。演示场景中通过CommandBufferSystem和BurstCompile异步生成48x48x10=23040个Cube阵列来生成效果方阵，使用AudioSystem在ECS环境下读取AudioSource的频谱数据保存于AudioDataArray中，然后使用多个CubeSystem读取AudioData对Cube进行属性上的修改。
+本分支修改内容可在Assets/MySample中找到。演示场景中通过CommandBufferSystem和BurstCompile异步生成48x48x10=23040个Cube阵列来组成效果方阵，使用AudioSystem在ECS环境下读取AudioSource的频谱数据保存于AudioDataArray中，然后使用多个CubeSystem读取AudioData对Cube进行属性上的修改。
 
 ### Demo1
 
